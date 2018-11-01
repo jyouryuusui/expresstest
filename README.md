@@ -1,7 +1,7 @@
 # expresstest
-express-generator そのまま
+express-generator そのまま備忘録
 
-##　Usage
+## Usage
 install　express-generator
     > npm install express-generator -g
 
@@ -17,7 +17,7 @@ install dependencies:
 run the app:
     > SET DEBUG=mytestapp:* & npm start
     
-##　express
+## express
 
     Usage: express [options][dir]
 
